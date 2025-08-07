@@ -3,6 +3,6 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/BeeByte/',  // <-- ADD THIS
+  base: '/BeeByte1',  // <-- ADD THIS
   plugins: [react()],
 });
